@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hi 👋
+#### I'm Nick 
+- 👨‍💻 I’m currently working for AOGO Tech.
+- 🌱 I’m currently learning Flutter and Swift
+- 📫 You can reach me at hi@dingdangnao.com
+- ❤️ LOVE 🐶
 <!--
 **dingdangnao/dingdangnao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
